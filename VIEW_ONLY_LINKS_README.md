@@ -4,6 +4,8 @@ Projects made with Excel for Data Analysis purposes
 
 Links to view them online
 
+FULL PROJECTS:
+
 1. Project 1 (Spanish):
 https://1drv.ms/x/s!Av8oObyC6ppBgiCMx8Dzl433_PnI?e=k0BcMb
 
