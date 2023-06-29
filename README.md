@@ -12,7 +12,7 @@ https://1drv.ms/x/s!Av8oObyC6ppBgiCMx8Dzl433_PnI?e=k0BcMb
 2. Project 2:
 https://1drv.ms/x/s!Av8oObyC6ppBgjhZxDgx-fspNUBw?e=qCc2KF
 
-EXCERCISES:
+EXERCISES:
 
 4. VHLOOKUP:
 https://1drv.ms/x/s!Av8oObyC6ppBgip6ZooyvlHeng31?e=5lTdIF
