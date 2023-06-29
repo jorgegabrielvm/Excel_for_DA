@@ -9,3 +9,17 @@ https://1drv.ms/x/s!Av8oObyC6ppBgiCMx8Dzl433_PnI?e=k0BcMb
 
 2. Car_Sales_Kaggle(Basic Functions, Pivots and Dashboard)
 https://1drv.ms/x/s!Av8oObyC6ppBgjhZxDgx-fspNUBw?e=qCc2KF
+
+3. VHLOOKUP:
+https://1drv.ms/x/s!Av8oObyC6ppBgip6ZooyvlHeng31?e=5lTdIF
+
+4. HLOOKUP:
+https://1drv.ms/x/s!Av8oObyC6ppBgh4vUK-6y5h6R47c?e=UZ99Gs
+
+5. Pivots:
+https://1drv.ms/x/s!Av8oObyC6ppBgjq0Pit8QbhY8P6q?e=9Mr6kr
+
+6. IFS
+https://1drv.ms/x/s!Av8oObyC6ppBgijHWYM3dUck0640?e=05hFHl
+
+
