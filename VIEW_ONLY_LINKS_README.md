@@ -4,10 +4,10 @@ Projects made with Excel for Data Analysis purposes
 
 Links to view them online
 
-1. Pivots and Dashboard(Spanish):
+1. Project 1 (Spanish):
 https://1drv.ms/x/s!Av8oObyC6ppBgiCMx8Dzl433_PnI?e=k0BcMb
 
-2. Car_Sales_Kaggle(Basic Functions, Pivots and Dashboard)
+2. Project 2:
 https://1drv.ms/x/s!Av8oObyC6ppBgjhZxDgx-fspNUBw?e=qCc2KF
 
 3. VHLOOKUP:
