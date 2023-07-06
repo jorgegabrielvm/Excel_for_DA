@@ -4,15 +4,18 @@ Projects made with Excel for Data Analysis purposes
 
 Links to view them online
 
-FULL PROJECTS:
+## FULL PROJECTS:
 
-1. Project 1 (Spanish):
+1. BikeStores:
+https://1drv.ms/x/s!Av8oObyC6ppBgzSYAh16HxcetH9z?e=dpxAqP
+
+3. Project 1 (Spanish):
 https://1drv.ms/x/s!Av8oObyC6ppBgiCMx8Dzl433_PnI?e=k0BcMb
 
-2. Project 2:
+4. Project 2:
 https://1drv.ms/x/s!Av8oObyC6ppBgjhZxDgx-fspNUBw?e=qCc2KF
 
-EXERCISES:
+## EXERCISES:
 
 4. VHLOOKUP:
 https://1drv.ms/x/s!Av8oObyC6ppBgip6ZooyvlHeng31?e=5lTdIF
