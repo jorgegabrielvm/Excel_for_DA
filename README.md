@@ -12,7 +12,7 @@ https://1drv.ms/x/s!Av8oObyC6ppBgz-sgTt2RGw9XwmG?e=XEqlfc
 2. BikeStores:
 https://1drv.ms/x/s!Av8oObyC6ppBgzSYAh16HxcetH9z?e=dpxAqP
 
-3. Project 1 (Spanish):
+3. Sneaker Sales (Spanish):
 https://1drv.ms/x/s!Av8oObyC6ppBgiCMx8Dzl433_PnI?e=k0BcMb
 
 4. Project 2:
