@@ -15,7 +15,7 @@ https://1drv.ms/x/s!Av8oObyC6ppBgzSYAh16HxcetH9z?e=dpxAqP
 3. Sneakers Sales (Spanish):
 https://1drv.ms/x/s!Av8oObyC6ppBgiCMx8Dzl433_PnI?e=k0BcMb
 
-4. Project 2:
+4. Car Sales:
 https://1drv.ms/x/s!Av8oObyC6ppBgjhZxDgx-fspNUBw?e=qCc2KF
 
 ## EXERCISES:
