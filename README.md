@@ -1,6 +1,6 @@
 # Excel_for_DA
 
-Projects made with Excel for Data Analysis purposes
+Projects made with Excel for Business Intelligence purposes
 
 Links to view them online
 
