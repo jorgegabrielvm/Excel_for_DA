@@ -25,7 +25,8 @@ Functions and formulas
 
 - [Basic Formulas 2](https://1drv.ms/x/s!Av8oObyC6ppBg1u8rtLL5Hlhax_a?e=Le0YVL)
 
-- [LOOKUPS: VLOOKUPS, HLOOKUPS AND XLOOKUPS](https://1drv.ms/x/s!Av8oObyC6ppBg1aMwldPu4_2cUYt?e=rZtRb6)
+- [LOOKUPS](https://1drv.ms/x/s!Av8oObyC6ppBg1aMwldPu4_2cUYt?e=rZtRb6)
+VLOOKUPS, HLOOKUPS AND XLOOKUPS
 
 - [IFS](https://1drv.ms/x/s!Av8oObyC6ppBgijHWYM3dUck0640?e=05hFHl)
 
