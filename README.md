@@ -17,6 +17,7 @@ Links to view them online
 5. [Car Sales](https://1drv.ms/x/s!Av8oObyC6ppBgjhZxDgx-fspNUBw?e=qCc2KF)
 
 ## EXERCISES:
+Functions and formulas
 
 1. [IFS](https://1drv.ms/x/s!Av8oObyC6ppBgijHWYM3dUck0640?e=05hFHl)
 
