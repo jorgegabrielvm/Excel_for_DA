@@ -18,12 +18,6 @@ Links to view them online
 
 ## EXERCISES:
 
-1. [VHLOOKUP](https://1drv.ms/x/s!Av8oObyC6ppBgip6ZooyvlHeng31?e=5lTdIF)
-
-2. [HLOOKUP](https://1drv.ms/x/s!Av8oObyC6ppBgh4vUK-6y5h6R47c?e=UZ99Gs)
-
-3. [Pivots](https://1drv.ms/x/s!Av8oObyC6ppBgjq0Pit8QbhY8P6q?e=9Mr6kr)
-
-4. [IFS](https://1drv.ms/x/s!Av8oObyC6ppBgijHWYM3dUck0640?e=05hFHl)
+1. [IFS](https://1drv.ms/x/s!Av8oObyC6ppBgijHWYM3dUck0640?e=05hFHl)
 
 
