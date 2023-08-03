@@ -20,9 +20,10 @@ Links to view them online
 Functions and formulas
 
 - ### [Business Formulas](https://1drv.ms/x/s!Av8oObyC6ppBg10051O-6Opx_xer?e=0T0j0I)
+  PV, FV, NPV, IRR, PMT, PMT
 
 - ### [Basic Formulas 1](https://1drv.ms/x/s!Av8oObyC6ppBg1kHv3kxSGIWWosE?e=TSyLz1)
-
+  
 - ### [Basic Formulas 2](https://1drv.ms/x/s!Av8oObyC6ppBg1u8rtLL5Hlhax_a?e=Le0YVL)
 
 - ### [LOOKUPS](https://1drv.ms/x/s!Av8oObyC6ppBg1aMwldPu4_2cUYt?e=rZtRb6)
